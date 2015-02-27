@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/joseph-onsip/peer-reconnection/issues"
   },
-  "homepage": "https://github.com/joseph-onsip/peer-reconnection"
+  "homepage": "https://github.com/joseph-onsip/peer-reconnection",
+  "devDependencies": {
+    "tape": "^3.5.0"
+  }
 }
