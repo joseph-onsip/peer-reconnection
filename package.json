@@ -1,0 +1,19 @@
+{
+  "name": "peer-reconnection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joseph-onsip/peer-reconnection.git"
+  },
+  "author": "Joseph Frazier <joseph@onsip.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joseph-onsip/peer-reconnection/issues"
+  },
+  "homepage": "https://github.com/joseph-onsip/peer-reconnection"
+}
